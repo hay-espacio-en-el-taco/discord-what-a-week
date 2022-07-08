@@ -6,8 +6,8 @@ const sendDiscordMessage = () => {
   const embededObject = {
     title: 'what a week?',
     type: 'rich',
-    url: 'https://thicc.mywaifulist.moe/waifus/458/f95bc89cc6ed8f5abe2204c30d74a1cf9b706d2badcf55859713c29444b21427_thumb.jpeg',
-    description: 'sda',
+    description: "Captain, it's Wednesday",
+    image: {url: 'https://i.kym-cdn.com/photos/images/facebook/001/414/503/eac.jpg'}
   }
 
   const richData = {
