@@ -18,10 +18,9 @@
     "url": "https://github.com/hay-espacio-en-el-taco/discord-what-a-week/issues"
   },
   "homepage": "https://github.com/hay-espacio-en-el-taco/discord-what-a-week#readme",
-  "devDependencies": {
-    "eslint": "^7.24.0"
-  },
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^7.24.0",
     "node-fetch": "^2.6.1"
   }
 }
